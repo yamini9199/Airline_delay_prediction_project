@@ -1,0 +1,193 @@
+Flight,Airline,Origin,Destination,Departure Time,Arrival Time,Distance,Weather,Delay
+AI101,Air India,Delhi,Mumbai,06:30,08:40,1150,Sunny,0
+6E202,IndiGo,Mumbai,Bengaluru,07:15,09:00,980,Cloudy,15
+SG305,SpiceJet,Chennai,Delhi,08:00,10:45,1760,Rain,42
+AK410,Akasa Air,Bengaluru,Goa,09:30,10:45,560,Sunny,0
+IX512,Air India Express,Kochi,Hyderabad,10:15,11:55,1050,Fog,28
+UK620,Vistara,Delhi,Kolkata,11:00,13:10,1300,Cloudy,8
+AI721,Air India,Hyderabad,Mumbai,12:30,14:00,620,Rain,35
+6E834,IndiGo,Pune,Delhi,13:15,15:00,1170,Sunny,0
+SG945,SpiceJet,Kolkata,Chennai,14:00,16:40,1670,Cloudy,18
+AK156,Akasa Air,Goa,Mumbai,15:30,16:35,435,Sunny,0
+IX287,Air India Express,Ahmedabad,Bengaluru,16:15,18:20,1500,Rain,50
+UK390,Vistara,Mumbai,Delhi,17:00,19:10,1150,Sunny,5
+AI456,Air India,Chennai,Kochi,18:30,19:45,690,Cloudy,12
+6E567,IndiGo,Delhi,Ahmedabad,19:15,20:45,950,Fog,30
+SG678,SpiceJet,Bengaluru,Hyderabad,20:00,21:15,570,Rain,40
+AK789,Akasa Air,Kolkata,Delhi,21:30,23:30,1300,Sunny,0
+IX890,Air India Express,Mumbai,Goa,22:15,23:20,435,Cloudy,10
+UK901,Vistara,Hyderabad,Chennai,05:45,07:00,630,Sunny,0
+AI112,Air India,Delhi,Pune,06:45,08:45,1170,Rain,38
+6E223,IndiGo,Goa,Kochi,07:30,08:45,520,Cloudy,20
+SG334,SpiceJet,Delhi,Mumbai,08:45,10:55,1150,Fog,25
+AK445,Akasa Air,Chennai,Bengaluru,09:15,10:20,350,Sunny,0
+IX556,Air India Express,Mumbai,Hyderabad,10:45,12:15,620,Rain,55
+UK667,Vistara,Pune,Kolkata,11:30,13:45,1500,Cloudy,14
+AI778,Air India,Ahmedabad,Delhi,12:15,13:50,950,Sunny,0
+6E889,IndiGo,Kochi,Mumbai,13:45,15:30,1200,Rain,48
+SG990,SpiceJet,Hyderabad,Delhi,14:30,16:45,1250,Fog,32
+AK111,Akasa Air,Bengaluru,Mumbai,15:15,16:55,980,Cloudy,17
+IX222,Air India Express,Delhi,Goa,16:00,18:30,1500,Sunny,0
+UK333,Vistara,Chennai,Delhi,17:45,20:20,1760,Rain,60
+AI444,Air India,Kolkata,Mumbai,18:15,20:45,1650,Cloudy,22
+6E555,IndiGo,Delhi,Bengaluru,19:30,21:40,1740,Sunny,0
+SG666,SpiceJet,Mumbai,Chennai,20:15,22:20,1050,Rain,45
+AK777,Akasa Air,Hyderabad,Goa,21:00,22:30,700,Cloudy,16
+IX888,Air India Express,Pune,Mumbai,22:45,23:50,150,Fog,35
+UK999,Vistara,Goa,Delhi,05:30,08:00,1500,Sunny,0
+AI123,Air India,Bengaluru,Kolkata,06:15,08:50,1560,Cloudy,13
+6E234,IndiGo,Ahmedabad,Chennai,07:00,09:10,1450,Rain,44
+SG345,SpiceJet,Kochi,Delhi,08:30,11:30,2200,Sunny,0
+AK456,Akasa Air,Delhi,Hyderabad,09:45,11:45,1250,Fog,27
+IX567,Air India Express,Mumbai,Pune,10:30,11:25,150,Cloudy,9
+UK678,Vistara,Chennai,Mumbai,11:15,13:15,1030,Rain,52
+AI789,Air India,Delhi,Kochi,12:45,15:45,2200,Sunny,0
+6E890,IndiGo,Mumbai,Kolkata,13:30,16:00,1650,Cloudy,19
+SG901,SpiceJet,Hyderabad,Bengaluru,14:15,15:30,570,Rain,36
+AK112,Akasa Air,Pune,Goa,15:45,16:50,450,Sunny,0
+IX223,Air India Express,Delhi,Chennai,16:30,19:15,1760,Fog,29
+UK334,Vistara,Mumbai,Ahmedabad,17:15,18:30,450,Cloudy,11
+AI445,Air India,Kolkata,Delhi,18:00,20:00,1300,Rain,41
+6E556,IndiGo,Goa,Bengaluru,19:15,20:30,560,Sunny,0
+SG667,SpiceJet,Chennai,Hyderabad,20:30,22:00,630,Cloudy,15
+AK778,Akasa Air,Delhi,Mumbai,21:45,23:55,1150,Rain,47
+IX889,Air India Express,Bengaluru,Kochi,05:15,06:20,360,Sunny,0
+UK990,Vistara,Hyderabad,Pune,06:30,08:00,560,Fog,31
+AI234,Air India,Mumbai,Goa,07:45,08:55,435,Cloudy,12
+6E345,IndiGo,Delhi,Kolkata,08:15,10:15,1300,Rain,39
+SG456,SpiceJet,Ahmedabad,Mumbai,09:00,10:10,450,Sunny,0
+AK567,Akasa Air,Kochi,Chennai,10:45,12:00,690,Cloudy,18
+IX678,Air India Express,Goa,Hyderabad,11:30,13:00,700,Rain,43
+UK789,Vistara,Bengaluru,Delhi,12:15,14:45,1740,Fog,33
+AI890,Air India,Pune,Chennai,13:00,15:00,1100,Sunny,0
+6E901,IndiGo,Kolkata,Bengaluru,14:30,17:00,1560,Cloudy,21
+SG212,SpiceJet,Delhi,Pune,15:15,17:15,1170,Rain,46
+AK323,Akasa Air,Mumbai,Kochi,16:00,17:45,1200,Sunny,0
+IX434,Air India Express,Chennai,Goa,17:30,19:00,850,Fog,26
+UK545,Vistara,Ahmedabad,Delhi,18:15,19:45,950,Cloudy,10
+AI656,Air India,Hyderabad,Kolkata,19:00,21:20,1500,Rain,54
+6E767,IndiGo,Mumbai,Bengaluru,20:15,22:00,980,Sunny,0
+SG878,SpiceJet,Delhi,Chennai,21:00,23:45,1760,Cloudy,17
+AK989,Akasa Air,Kolkata,Goa,22:30,00:45,1900,Rain,58
+IX100,Air India Express,Pune,Delhi,05:45,07:30,1170,Sunny,0
+UK211,Vistara,Chennai,Kolkata,06:30,09:00,1670,Fog,34
+AI322,Air India,Kochi,Mumbai,07:15,09:00,1200,Cloudy,16
+6E433,IndiGo,Goa,Delhi,08:45,11:15,1500,Rain,49
+SG544,SpiceJet,Bengaluru,Ahmedabad,09:30,11:45,1450,Sunny,0
+AK655,Akasa Air,Hyderabad,Mumbai,10:15,11:45,620,Cloudy,14
+IX766,Air India Express,Delhi,Bengaluru,11:00,13:30,1740,Fog,37
+UK877,Vistara,Mumbai,Chennai,12:30,14:30,1050,Rain,51
+AI988,Air India,Kolkata,Pune,13:15,15:40,1500,Sunny,0
+6E199,IndiGo,Ahmedabad,Kochi,14:00,16:00,1200,Cloudy,13
+SG288,SpiceJet,Delhi,Goa,15:30,18:00,1500,Rain,57
+AK377,Akasa Air,Mumbai,Delhi,16:15,18:25,1150,Sunny,0
+IX488,Air India Express,Chennai,Pune,17:00,19:00,1100,Fog,30
+UK599,Vistara,Hyderabad,Delhi,18:45,21:00,1250,Cloudy,15
+AI600,Air India,Bengaluru,Chennai,19:30,20:35,350,Rain,40
+6E711,IndiGo,Kochi,Kolkata,20:15,23:00,2000,Sunny,0
+SG822,SpiceJet,Mumbai,Hyderabad,21:30,23:00,620,Cloudy,18
+AK933,Akasa Air,Delhi,Ahmedabad,22:00,23:30,950,Rain,45
+IX144,Air India Express,Goa,Mumbai,05:30,06:35,435,Sunny,0
+UK255,Vistara,Pune,Bengaluru,06:15,07:45,850,Fog,29
+AI366,Air India,Delhi,Mumbai,07:00,09:10,1150,Cloudy,14
+6E477,IndiGo,Mumbai,Chennai,08:30,10:30,1030,Rain,38
+SG588,SpiceJet,Bengaluru,Delhi,09:15,11:45,1740,Sunny,0
+AK699,Akasa Air,Hyderabad,Goa,10:00,11:30,700,Cloudy,12
+IX700,Air India Express,Kolkata,Mumbai,11:30,14:00,1650,Fog,35
+UK811,Vistara,Delhi,Kochi,12:15,15:15,2200,Rain,55
+AI922,Air India,Pune,Hyderabad,13:00,14:30,560,Sunny,0
+6E133,IndiGo,Chennai,Delhi,14:15,17:00,1760,Cloudy,20
+SG244,SpiceJet,Mumbai,Ahmedabad,15:00,16:15,450,Rain,32
+AK355,Akasa Air,Goa,Bengaluru,16:45,18:00,560,Sunny,0
+IX466,Air India Express,Kochi,Delhi,17:30,20:30,2200,Fog,42
+UK577,Vistara,Ahmedabad,Mumbai,18:15,19:25,450,Cloudy,11
+AI688,Air India,Bengaluru,Pune,19:00,20:45,850,Rain,37
+6E799,IndiGo,Hyderabad,Chennai,20:30,21:45,630,Sunny,0
+SG800,SpiceJet,Kolkata,Delhi,21:15,23:15,1300,Cloudy,18
+AK911,Akasa Air,Mumbai,Goa,22:45,23:50,435,Rain,44
+IX122,Air India Express,Delhi,Pune,06:00,08:00,1170,Sunny,0
+UK233,Vistara,Chennai,Kochi,07:30,08:45,690,Fog,26
+AI344,Air India,Mumbai,Bengaluru,08:15,10:00,980,Cloudy,13
+6E455,IndiGo,Delhi,Ahmedabad,09:45,11:15,950,Rain,41
+SG566,SpiceJet,Goa,Chennai,10:30,12:15,850,Sunny,0
+AK677,Akasa Air,Pune,Mumbai,11:15,12:10,150,Cloudy,9
+IX788,Air India Express,Bengaluru,Hyderabad,12:45,14:00,570,Rain,36
+UK899,Vistara,Kochi,Bengaluru,13:30,14:40,360,Sunny,0
+AI911,Air India,Delhi,Kolkata,14:15,16:15,1300,Fog,33
+6E122,IndiGo,Mumbai,Delhi,15:00,17:10,1150,Cloudy,15
+SG233,SpiceJet,Chennai,Mumbai,16:30,18:30,1030,Rain,48
+AK344,Akasa Air,Ahmedabad,Goa,17:15,18:45,900,Sunny,0
+IX455,Air India Express,Hyderabad,Kochi,18:00,19:45,1050,Cloudy,16
+UK566,Vistara,Bengaluru,Kolkata,19:30,22:00,1560,Rain,53
+AI677,Air India,Pune,Delhi,20:15,22:00,1170,Sunny,0
+6E788,IndiGo,Goa,Mumbai,21:00,22:05,435,Fog,28
+SG899,SpiceJet,Delhi,Hyderabad,22:30,00:30,1250,Cloudy,17
+AK900,Akasa Air,Chennai,Bengaluru,05:45,06:50,350,Rain,39
+IX111,Air India Express,Mumbai,Kochi,06:30,08:15,1200,Sunny,0
+UK222,Vistara,Delhi,Goa,07:15,09:45,1500,Cloudy,14
+AI333,Air India,Kolkata,Chennai,08:00,10:40,1670,Rain,47
+6E444,IndiGo,Ahmedabad,Delhi,09:30,11:00,950,Sunny,0
+SG555,SpiceJet,Kochi,Mumbai,10:15,12:00,1200,Fog,31
+AK666,Akasa Air,Hyderabad,Bengaluru,11:45,13:00,570,Cloudy,12
+IX777,Air India Express,Pune,Kolkata,12:30,14:45,1500,Rain,45
+UK888,Vistara,Mumbai,Hyderabad,13:15,14:45,620,Sunny,0
+AI999,Air India,Chennai,Goa,14:00,15:30,850,Cloudy,19
+6E100,IndiGo,Bengaluru,Mumbai,15:45,17:30,980,Rain,50
+SG211,SpiceJet,Delhi,Kochi,16:30,19:30,2200,Fog,34
+AK322,Akasa Air,Mumbai,Pune,17:15,18:10,150,Sunny,0
+IX433,Air India Express,Goa,Hyderabad,18:00,19:30,700,Cloudy,15
+UK544,Vistara,Ahmedabad,Bengaluru,19:15,21:30,1450,Rain,52
+AI655,Air India,Kolkata,Mumbai,20:00,22:30,1650,Sunny,0
+6E766,IndiGo,Chennai,Hyderabad,21:15,22:45,630,Fog,29
+SG877,SpiceJet,Pune,Goa,22:00,23:00,450,Cloudy,10
+AK988,Akasa Air,Delhi,Chennai,05:30,08:15,1760,Rain,56
+IX199,Air India Express,Mumbai,Kolkata,06:45,09:15,1650,Sunny,0
+UK300,Vistara,Bengaluru,Goa,07:30,08:45,560,Cloudy,13
+AI411,Air India,Hyderabad,Delhi,08:15,10:30,1250,Rain,43
+6E522,IndiGo,Kochi,Pune,09:00,10:45,1200,Sunny,0
+SG633,SpiceJet,Delhi,Bengaluru,10:30,13:00,1740,Fog,36
+AK744,Akasa Air,Chennai,Mumbai,11:15,13:15,1030,Cloudy,17
+IX855,Air India Express,Goa,Kolkata,12:00,14:30,1900,Rain,60
+UK966,Vistara,Mumbai,Ahmedabad,13:45,15:00,450,Sunny,0
+AI177,Air India,Pune,Chennai,14:30,16:30,1100,Cloudy,14
+6E288,IndiGo,Delhi,Mumbai,15:15,17:25,1150,Rain,46
+SG399,SpiceJet,Hyderabad,Goa,16:00,17:30,700,Sunny,0
+AK400,Akasa Air,Kolkata,Delhi,17:45,19:45,1300,Fog,32
+IX511,Air India Express,Bengaluru,Kochi,18:30,19:40,360,Cloudy,11
+UK622,Vistara,Chennai,Delhi,19:15,22:00,1760,Rain,54
+AI733,Air India,Mumbai,Pune,20:00,20:55,150,Sunny,0
+6E844,IndiGo,Ahmedabad,Kolkata,21:30,23:45,1500,Cloudy,16
+SG955,SpiceJet,Goa,Delhi,22:15,00:45,1500,Rain,58
+AK166,Akasa Air,Kochi,Mumbai,05:15,07:00,1200,Sunny,0
+IX277,Air India Express,Delhi,Ahmedabad,06:00,07:30,950,Fog,27
+UK388,Vistara,Hyderabad,Pune,07:45,09:15,560,Cloudy,12
+AI499,Air India,Mumbai,Goa,08:30,09:35,435,Rain,40
+6E511,IndiGo,Bengaluru,Chennai,09:15,10:20,350,Sunny,0
+SG622,SpiceJet,Kolkata,Bengaluru,10:45,13:15,1560,Cloudy,18
+AK733,Akasa Air,Delhi,Kolkata,11:30,13:30,1300,Rain,49
+IX844,Air India Express,Chennai,Kochi,12:15,13:30,690,Fog,30
+UK955,Vistara,Pune,Mumbai,13:45,14:40,150,Sunny,0
+AI166,Air India,Goa,Hyderabad,14:30,16:00,700,Cloudy,15
+6E277,IndiGo,Mumbai,Delhi,15:15,17:25,1150,Rain,45
+SG388,SpiceJet,Ahmedabad,Chennai,16:00,18:10,1450,Sunny,0
+AK499,Akasa Air,Bengaluru,Delhi,17:30,20:00,1740,Fog,35
+IX600,Air India Express,Kolkata,Kochi,18:15,21:15,2200,Cloudy,20
+UK711,Vistara,Delhi,Goa,19:00,21:30,1500,Rain,57
+AI822,Air India,Chennai,Pune,20:15,22:15,1100,Sunny,0
+6E933,IndiGo,Hyderabad,Mumbai,21:00,22:30,620,Cloudy,13
+SG144,SpiceJet,Mumbai,Bengaluru,22:30,00:15,980,Fog,29
+AK255,Akasa Air,Delhi,Kochi,05:45,08:45,2200,Rain,62
+IX366,Air India Express,Pune,Delhi,06:30,08:15,1170,Sunny,0
+UK477,Vistara,Mumbai,Chennai,07:15,09:15,1030,Cloudy,14
+AI588,Air India,Bengaluru,Hyderabad,08:00,09:15,570,Rain,38
+6E699,IndiGo,Goa,Mumbai,09:30,10:35,435,Sunny,0
+SG700,SpiceJet,Delhi,Pune,10:15,12:15,1170,Fog,33
+AK811,Akasa Air,Chennai,Goa,11:00,12:30,850,Cloudy,16
+IX922,Air India Express,Ahmedabad,Delhi,12:45,14:15,950,Rain,44
+UK133,Vistara,Kochi,Chennai,13:30,14:45,690,Sunny,0
+AI244,Air India,Mumbai,Kolkata,14:15,16:45,1650,Cloudy,18
+6E355,IndiGo,Delhi,Bengaluru,15:00,17:30,1740,Rain,51
+SG466,SpiceJet,Hyderabad,Delhi,16:45,19:00,1250,Fog,31
+AK577,Akasa Air,Pune,Kochi,17:30,19:00,1200,Sunny,0
+IX688,Air India Express,Goa,Chennai,18:15,20:00,850,Cloudy,12
+UK799,Vistara,Bengaluru,Mumbai,19:00,20:45,980,Rain,42
