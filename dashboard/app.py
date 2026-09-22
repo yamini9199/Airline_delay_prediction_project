@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 import joblib
-model = joblib.load("../delay_model.pkl")
+model = joblib.load("delay_model.pkl")
 st.title("Airline Delay Prediction System")
 airline=st.selectbox("Airline",["Air India","IndiGo","SpiceJet","Vistara"])
 distance=st.number_input("Distance")
